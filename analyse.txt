@@ -1,1 +1,15 @@
-index
+
+MES OBJECTIFS POUR CETTE SEMAINE
+
+1. Comprendre les commandes de base de Git.
+2. Savoir envoyer des fichiers sur GitHub.
+3. Apprendre à créer et utiliser une branche.
+4. Comprendre le fonctionnement des commits.
+5. Commencer un petit projet Python.
+
+MA METHODE
+
+- Pratiquer chaque jour.
+- Lire les messages du terminal.
+- Comprendre les commandes avant de les exécuter.
+- Corriger les erreurs étape par étape.

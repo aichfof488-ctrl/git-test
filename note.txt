@@ -1,0 +1,18 @@
+
+MON APPRENTISSAGE DE GIT ET GITHUB
+
+Git est un outil qui permet de suivre les modifications
+apportées aux fichiers d'un projet.
+
+GitHub permet d'héberger des dépôts Git en ligne.
+
+Les commandes essentielles :
+- git status : vérifier l'état du projet
+- git add : préparer les modifications
+- git commit : enregistrer une version
+- git push : envoyer les commits sur GitHub
+- git pull : récupérer les changements du dépôt distant
+
+Conclusion :
+Git et GitHub m'aident à organiser mes projets
+et à conserver leur historique.

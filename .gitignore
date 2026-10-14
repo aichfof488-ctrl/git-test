@@ -1,1 +1,10 @@
 mpopass.txt
+
+# Fichiers temporaires Python
+__pycache__/
+
+# Fichiers contenant des variables et secrets
+.env
+
+# Fichiers de journalisation
+*.log
