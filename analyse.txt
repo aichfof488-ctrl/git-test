@@ -13,3 +13,10 @@ MA METHODE
 - Lire les messages du terminal.
 - Comprendre les commandes avant de les exécuter.
 - Corriger les erreurs étape par étape.
+
+MA METHODE
+
+- Pratiquer chaque jour.
+- Lire les messages du terminal.
+- Comprendre les commandes avant de les exécuter.
+- Corriger les erreurs étape par étape.
